@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="groundplane" size="21.000000 29.702971" />
+    <ImageTarget name="jisoo" size="6.000000 8.956268" />
+  </Tracking>
+</QCARConfig>
